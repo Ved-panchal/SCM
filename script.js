@@ -6,6 +6,6 @@ function getPO(){
 	});
 }
 
-function hi(){
-	console.log("Hello");
+function Hello(){
+	return "Hello";
 }
