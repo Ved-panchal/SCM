@@ -6,6 +6,6 @@ function getPO(){
 	});
 }
 
-const hello = () => {
+function hello() {
 	console.log("Hello");
 }
