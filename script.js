@@ -5,3 +5,7 @@ function getPO(){
     		valuesArray.push(input.value);
 	});
 }
+
+const hello = () => {
+	console.log("Hello");
+}
